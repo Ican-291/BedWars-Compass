@@ -1,0 +1,7 @@
+name: BedWars-Compass
+version: '${project.version}'
+main: cc.pixeleast.compass.Compass
+softdepend: [BedWars1058]
+authors: [Ican-291]
+description: Provide team tracker and quick communication for Compass Addon of BedWars1058
+website: https://github.com/Ican-291/
